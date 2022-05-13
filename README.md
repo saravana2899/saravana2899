@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saravanapirakashguruvan@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/17Jzq1__zHaZwYWZqM_vh4yeB6AQ-BJg4/view?usp=sharing](https://drive.google.com/file/d/17Jzq1__zHaZwYWZqM_vh4yeB6AQ-BJg4/view?usp=sharing)
+- 📄 To get my Resume [Click Here ](https://drive.google.com/file/d/17Jzq1__zHaZwYWZqM_vh4yeB6AQ-BJg4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
