@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm SARAVANAPIRAKASH G</h1>
 <h3 align="center">A passionate salesforce developer from India</h3>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravana2899&label=Profile%20views&color=0e75b6&style=flat" alt="saravana2899" /> </p>
 
