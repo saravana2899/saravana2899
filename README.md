@@ -1,4 +1,4 @@
-![MasterHead](https://www.scnsoft.com/software-development-services/java-development/custom-java-application-development-cover.svg)
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi I'm SARAVANAPIRAKASH G  <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" width=30></h1>
 <h3 align="center">A passionate salesforce developer from India</h3>
 
